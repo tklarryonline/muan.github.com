@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Something in color...</title>
+    <description></description>
+    <link>http://tklarryonline.me/block-theme</link>
+    <atom:link href="http://tklarryonline.me/block-theme/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Talking with Monochromatic</title>
+        <description>&lt;p&gt;When it comes to strength, here is chroma&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Btw, here is my chosen base color&lt;/p&gt;
+
+&lt;div style=&quot;
+background-color: #009874;
+width: 100%;
+height: 100px;
+&quot;&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 12 Oct 2013 05:35:02 +0700</pubDate>
+        <link>http://tklarryonline.me/block-theme/2013/10/12/monochromatic/</link>
+        <guid isPermaLink="true">http://tklarryonline.me/block-theme/2013/10/12/monochromatic/</guid>
+      </item>
+    
+  </channel>
+</rss>
