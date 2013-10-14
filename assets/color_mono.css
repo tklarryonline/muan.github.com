@@ -1,0 +1,12 @@
+a {
+  color: #0f9476; }
+
+.site-header .site-title {
+  color: #295d51; }
+  .site-header .site-title:hover {
+    color: #0f9476; }
+    .site-header .site-title:hover .block {
+      background-color: #0f9476; }
+    .site-header .site-title:hover .lastname {
+      opacity: .7;
+      color: #0f9476; }
